@@ -1,0 +1,17 @@
+{
+	"name": "cakephp/cakephp",
+	"require": {
+		"php": "5.3.3"
+	},
+	"require-dev": {
+		"dompdf/dompdf": "v0.8.0",
+    "friendsofcake/cakepdf": "1.0.3"
+	},
+	"config": {
+		"vendor-dir": "vendors/",
+		"process-timeout": 0,
+		"platform": {
+			"php": "5.3.3"
+		}
+	}
+}
